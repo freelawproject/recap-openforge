@@ -1,5 +1,6 @@
 Background
 -----
+Please report all issues at the centralized RECAP issue repo, [/freelawproject/recap](https://github.com/freelawproject/recap/issues.).
 
 This repo is an effort to create a cross-platform version of the RECAP extension. 
 It uses the Open Forge library that can build multiple extensions from a common source, 
